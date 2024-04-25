@@ -34,5 +34,5 @@ module.exports = {
   sum,
   multiply,
   power,
-  factorial
+  factorial,
 };
