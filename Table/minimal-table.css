@@ -1,11 +1,14 @@
 html {
   font-family: sans-serif;
+  color: white;
+  background-color: rgb(121, 121, 237);
 }
 
 table {
   border-collapse: collapse;
   border: 2px solid rgb(200,200,200);
   letter-spacing: 1px;
+  color: black;
   font-size: 0.8rem;
 }
 
